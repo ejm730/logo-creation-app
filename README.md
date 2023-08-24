@@ -2,6 +2,7 @@
 
 A simple, interactive CLI tool that lets you generate SVG logos with customizable shapes and colors.
 
+![logo-walkthrough-gif](assets/logo-generator-gif.gif)
 
 ## Table of Contents
 
@@ -34,7 +35,7 @@ Timestamped Filenames: Each generated SVG is saved with a unique timestamp, prev
 
 ## Link to Walkthrough Video
 
-<>
+<https://drive.google.com/file/d/1XTBUcuSAU5-JqejNu36hJfEz_9Kv2YBQ/view>
 
 ## Setup and Installation
 
@@ -69,8 +70,3 @@ As this is a personal project, contributions and issues may not be readily addre
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Acknowledgments
-
-The Node.js and npm community for providing a vast library of packages that made building this application smoother.
-Special thanks to the creators of inquirer for creating an interactive command line interface.
